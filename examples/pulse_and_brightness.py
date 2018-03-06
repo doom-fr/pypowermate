@@ -2,7 +2,7 @@
 
 import time
 import sys
-from pypowermate import Powermate
+from pypowermate.powermate import Powermate
 
 if __name__ == '__main__':
 	if len(sys.argv) != 2:
